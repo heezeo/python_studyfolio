@@ -6,5 +6,5 @@
 >  - [파이썬톺아보기2(Reviewing Python2)]()
 <br/>
 
-> 2. inflearn
+> 2. Inflearn
 >
