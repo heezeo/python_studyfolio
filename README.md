@@ -11,3 +11,4 @@
 
 ### References
 > - [10 Minutes to Pandas (Korean)](https://dataitgirls2.github.io/10minutes2pandas/)
+> - [Heezeo's Python TIL](https://velog.io/@heezeo/series/파이썬-til)
