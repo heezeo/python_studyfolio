@@ -8,3 +8,7 @@
 > 2. Pandas
 > - [단 두 장의 문서로 데이터 분석과 시각화 뽀개기 section1](pandas1_dataframe_series.html)
 >
+
+
+> Reference
+> - [10 Minutes to Pandas (Korean)](https://dataitgirls2.github.io/10minutes2pandas/)
