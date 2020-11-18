@@ -1,4 +1,4 @@
-# python_studypolio
+# python_studyfolio
 ### Heeji's Jupyter notebooks for studying & practicing Python.
 
 > 1. Python Grammer
